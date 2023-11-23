@@ -1,0 +1,1 @@
+/usr/bin/c++   -march=native -lstdc++ -Wall -march=native -O3 -faligned-new  -lssl -lcrypto   CMakeFiles/fft_gkr.dir/src/VPD/fft_circuit_GKR.cpp.o CMakeFiles/fft_gkr.dir/src/linear_gkr/prime_field.cpp.o CMakeFiles/fft_gkr.dir/src/linear_gkr/polynomial.cpp.o  -o fft_gkr 

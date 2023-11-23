@@ -1,0 +1,4 @@
+/home/kjkjj/Desktop/eVSS/Virgo/CMakeFiles/rebuild_cache.dir
+/home/kjkjj/Desktop/eVSS/Virgo/CMakeFiles/edit_cache.dir
+/home/kjkjj/Desktop/eVSS/Virgo/CMakeFiles/zk_proof.dir
+/home/kjkjj/Desktop/eVSS/Virgo/CMakeFiles/fft_gkr.dir
